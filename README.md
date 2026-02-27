@@ -22,7 +22,7 @@ Saya **Ishlakhul Firdaus.**
 <p align="left">
 <a href="https://github.com/xeraaaa16">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xeraaaa16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingGhofar&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xeraaaa16&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 ---
