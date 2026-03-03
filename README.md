@@ -1,16 +1,19 @@
 # Halo semua! 👋  
 Saya **Ishlakhul Firdaus.**  
 
-🎓 Mahasiswa Fakultas Teknik dan Sains, Universitas Muhammadiyah Purwokerto  
-💻 Prodi **Teknik Informatika**  
-🎨 Tertarik pada **Front-End Development** — menggabungkan desain visual dengan pemrograman interaktif untuk menciptakan pengalaman pengguna yang luar biasa.  
+🎓 Mahasiswa Fakultas Teknik dan Sains, Universitas Muhammadiyah Purwokerto
+💻 Program Studi Teknik Informatika
+🔎 Memiliki minat dalam Forensik Digital, dengan fokus pada analisis, investigasi, dan pengelolaan bukti digital.
+🎨 Juga tertarik menggabungkan desain visual dengan pemrograman interaktif untuk menciptakan pengalaman pengguna yang responsif dan intuitif.
 
 ---
 
-## 🚀 Tentang Saya
-- 🌱 Sedang mendalami **Front-End Development** (HTML, CSS, JavaScript, Node.js, Vue.js, Tailwind CSS).  
-- 🎯 Aspirasi karir: menjadi **Front-End Developer** yang kreatif dan terampil.  
-- ✨ Fokus pada antarmuka web yang **responsif, estetis, dan intuitif**.  
+🚀 About Me
+🌱 Currently diving deep into Digital Forensics
+🎯 Future goal: Becoming a skilled & creative Digital Forensics Specialist
+💻 Passionate about building responsive, aesthetic, and intuitive web interfaces
+🔎 Interested in cybersecurity, digital investigation, and system analysis
+⚡ Always learning & improving technical and problem-solving skills
 
 ---
 
